@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Meu App</string>
+    <string name="hello_world">Olá, mundo!</string>
+    <string name="click_me">Clique aqui</string>
+    <string name="hello_clicked">Você clicou no botão 🎉</string>
+
+    <string name="pareamento_adb_titulo">Pareamento ADB via Wi-Fi</string>
+    <string name="pareamento_adb_instrucoes">No dispositivo a ser conectado, vá em Opções do desenvolvedor → Depuração sem fio → Parear dispositivo com código de pareamento. Toque em \"Procurar dispositivo\" para detectar automaticamente o IP e a porta, ou digite-os manualmente. Depois informe o código de 6 dígitos exibido na tela.</string>
+    <string name="hint_ip">IP do dispositivo (ex: 192.168.0.10)</string>
+    <string name="hint_porta_pareamento">Porta de pareamento</string>
+    <string name="botao_procurar_dispositivo">Procurar dispositivo automaticamente</string>
+    <string name="hint_codigo_pareamento">Código de pareamento (6 dígitos)</string>
+    <string name="botao_parear_conectar">Parear e conectar</string>
+    <string name="status_pareamento_inicial">Nenhum pareamento realizado ainda.</string>
+    <string name="status_procurando">Procurando dispositivo na rede…</string>
+    <string name="status_encontrado">Dispositivo encontrado: %1$s:%2$d</string>
+    <string name="status_procurando_falhou">Não foi possível encontrar automaticamente. Digite o IP e a porta manualmente.</string>
+    <string name="status_pareando">Pareando…</string>
+    <string name="status_pareado_sucesso">Pareamento concluído com sucesso!</string>
+    <string name="status_pareado_falha">Falha no pareamento: %1$s</string>
+    <string name="erro_preencha_ip_porta_codigo">Preencha IP, porta e código antes de parear.</string>
+</resources>
